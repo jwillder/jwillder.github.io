@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-header {
+content {
   display: flex;
   height: 100%;
   align-items: center;
@@ -19,4 +19,8 @@ header {
 h1 {
   color: #fff;
   font-family: 'Nova Mono', monospace;
+}
+
+img {
+	height: 100%;
 }
